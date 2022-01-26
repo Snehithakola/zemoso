@@ -1,0 +1,17 @@
+For initializating a git repository:
+git init
+for adding a new file:
+git add filename
+to know the status:
+git status
+for commiting a file:
+git commit -m "message"
+
+$ git push -u origin main
+$ git remote add origin https://github.com/Snehithakola/zemoso-training.git
+$ git branch -M main
+
+for replacing the words:
+$ sed -i 's/oldword/newword/g' hello_world.txt(filename)
+
+
